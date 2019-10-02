@@ -12,7 +12,7 @@ namespace Lab2
         {
             Console.WriteLine("This is my lab 2 Hello World with embellishments added.");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Uunfortunately I won't be in class on Thursday :(");
+            Console.WriteLine("Uunfortunately I won't be in class on Thursday! :(");
         }
     }
 }
